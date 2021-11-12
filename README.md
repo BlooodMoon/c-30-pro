@@ -1,1 +1,2 @@
-# c-30-pro
+# zombie-crush-2
+project solution for c30
